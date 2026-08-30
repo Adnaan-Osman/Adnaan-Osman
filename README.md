@@ -5,4 +5,4 @@
 - Python
 - AI Engineering
 
-I'm currently strengthening my skills in Git and Github while continuing my journey toward AI Engineering.
+I'm currently strengthening my skills in Git and GitHub while continuing my journey toward AI Engineering.
