@@ -43,3 +43,10 @@ A hands-on Python learning journey covering Python fundamentals, web development
 - Git and GitHub
 - Python
 - AI Engineering
+
+## Connect With Me
+
+* **GitHub:** [Adnaan-Osman](https://github.com/Adnaan-Osman)
+* **LinkedIn:** [Adnaan Osman](https://www.linkedin.com/in/adnaan-osman-380573426)
+* **X:** [@AdnaanOsman1822](https://x.com/AdnaanOsman1822)
+* **Instagram:** [@lil_ozman](https://www.instagram.com/lil_ozman/)
