@@ -1,4 +1,6 @@
-## Hi there 👋
+# Adnaan Osman
+
+### Software Developer | AI Engineering Enthusiast | IT Graduate
 
 ## About Me
 
