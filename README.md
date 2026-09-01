@@ -39,10 +39,6 @@ A hands-on Python learning journey covering Python fundamentals, web development
 
 ## GitHub Statistics
 
-- GitHub contributions and activity
-- Repository statistics
-- Coding activity
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnaan-Osman&show_icons=true)
