@@ -37,6 +37,11 @@ A hands-on Python learning journey covering Python fundamentals, web development
 
 **Technologies:** Python, Flask, MongoDB, PyMongo
 
+## GitHub Statistics
+
+- GitHub contributions and activity
+- Repository statistics
+- Coding activity
 
 ## Currently Learning
 
