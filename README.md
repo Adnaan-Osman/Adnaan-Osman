@@ -39,8 +39,6 @@ A hands-on Python learning journey covering Python fundamentals, web development
 
 ## GitHub Statistics
 
-### GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnaan-Osman&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-Osman&layout=compact)
