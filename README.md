@@ -25,13 +25,13 @@ A web-based system designed to help police manage missing persons cases, sightin
 
 **Technologies:** PHP, MySQL, JavaScript, AJAX, Python, OpenCV
 
-### Farmnet Kenya
+### [Farmnet Kenya](https://github.com/Adnaan-Osman/FARMNET-KENYA)
 
 A web-based agricultural platform designed to connect farmers with useful agricultural services and information. The project was developed as part of my academic work and focused on solving practical challenges in the agricultural sector.
 
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
-### 30 Days of Python
+### [30 Days of Python](https://github.com/Adnaan-Osman/30DaysOfPython)
 
 A hands-on Python learning journey covering Python fundamentals, web development with Flask, MongoDB integration, APIs, and other practical programming concepts.
 
